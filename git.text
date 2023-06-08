@@ -1,0 +1,3 @@
+git init -- to initilaze the git
+git status -- 
+git add . -- to add all files
